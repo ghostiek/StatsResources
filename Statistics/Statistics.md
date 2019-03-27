@@ -1,3 +1,3 @@
 # Statistics Topics
 
-- [Distributions](./Distributions/Distributions.md)
+- [Distributions](Distributions.md)
