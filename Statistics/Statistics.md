@@ -1,5 +1,3 @@
-# Stats Topics
+# Statistics Topics
 
-<ul>
-  <li><a href="Distributions/Distributions.md">Distributions</a></li>
-</ul>
+- [Distributions](https://github.com/ghostiek/StatsResources/blob/master/Statistics/Distributions/Distributions.md)
