@@ -1,10 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<title>Distributions Resources</title>
-<link rel="stylesheet" type="text/css" href="Distributions.css" />
-</head>
-<body>
 
 <table class="blueTable">
 <thead>
@@ -29,6 +22,3 @@
 </tr>
 </tbody>
 </table>
-
-</body>
-</html>
