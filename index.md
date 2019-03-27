@@ -1,8 +1,6 @@
 # Welcome to our Resource Portal
 
-<ul>
-  <li><a href="Statistics/Statistics.html">Statistics</a></li>
-  <li><a href="Programming/Programming.html">Programming</li>
-  <li><a href="Maths/Maths.html">Maths</li>
-  <li><a href="Miscelaneous/Miscelaneous.html">Miscelaneous</li>
-</ul>
+- [Statistics](https://github.com/ghostiek/StatsResources/blob/master/Statistics/Statistics.md)
+- [Programming](https://github.com/ghostiek/StatsResources/blob/master/Programming/Programming.md)
+- [Maths](https://github.com/ghostiek/StatsResources/blob/master/Maths/Maths.md)
+- [Miscelaneous](https://github.com/ghostiek/StatsResources/blob/master/Miscelaneous/Miscelaneous.md)
