@@ -1,5 +1,5 @@
 # Programming Topics
 
-- [Languages](./Languages/Languages.md)
-- [Softwares](./Softwares/Softwares.md)
-- [Cloud Services](./CloudServices/CloudServices.md)
+- [Languages](Languages.md)
+- [Softwares](Softwares.md)
+- [Cloud Services](CloudServices.md)
