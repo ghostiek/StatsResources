@@ -1,4 +1,4 @@
-| Name        | Command Name           | Resource Link(s)  |
-| :-------------: |:-------------:| :-----:|
+| Name | Command Name | Overview | Further Reading
+| :--: |:------------:|:--------:|:--------------:
 | R     | r | https://www.rstudio.com/online-learning/#r-programming |
 | Python | python | https://www.analyticsvidhya.com/blog/2016/01/complete-tutorial-learn-data-science-python-scratch-2/ |
