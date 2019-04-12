@@ -1,5 +1,6 @@
 | Name | Command Name | Overview | Further Reading
 | :--: |:------------:|:--------:|:--------------:
+| Bash | bash | http://write.flossmanuals.net/command-line/introduction/ |
 | Jupyter | jupyter | https://jupyter.readthedocs.io/en/latest/install.html#install |
 | Julia | julia | https://julialang.org/ | http://ucidatascienceinitiative.github.io/IntroToJulia/ |
 | IPython | ipython | https://ipython.readthedocs.io/en/stable/install/kernel_install.html |
