@@ -1,4 +1,5 @@
 # Statistics Topics
 
-- [Distributions](Distributions.md)
 - [Common Formulas](CommonFormulas.md)
+- [Distributions](Distributions.md)
+- [Tests](Tests.md)
