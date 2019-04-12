@@ -4,6 +4,8 @@ This resource was made to serve as documentation for our [Discord Bot](https://g
 
 Feel free to join our community using this [link](https://discordapp.com/invite/PPvDstH).
 
+Interested in contributing by offering us more resources to look into? Click [here](Contributing.md).
+
 ## Index
 
 - [Statistics](/Statistics/Statistics.md)
