@@ -1,4 +1,6 @@
 | Name | Command Name | Overview | Further Reading
 | :--: |:------------:|:--------:|:--------------:
-| R     | r | https://www.rstudio.com/online-learning/#r-programming |
+| Jupyter | jupyter | https://jupyter.readthedocs.io/en/latest/install.html#install |
+| IPython | ipython | https://ipython.readthedocs.io/en/stable/install/kernel_install.html |
 | Python | python | https://www.analyticsvidhya.com/blog/2016/01/complete-tutorial-learn-data-science-python-scratch-2/ |
+| R     | r | https://www.rstudio.com/online-learning/#r-programming |
