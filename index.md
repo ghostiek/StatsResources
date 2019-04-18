@@ -8,6 +8,7 @@ Interested in contributing by offering us more resources to look into? Click [he
 
 ## Index
 
+- [Data](/Data/Data.md)
 - [Statistics](/Statistics/Statistics.md)
 - [Programming](/Programming/Programming.md)
 - [Maths](/Maths/Maths.md)
