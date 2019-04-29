@@ -2,6 +2,10 @@
 
 Any help to this project would be greatly appreciated! Here are the different methods through which you may contribute, they are all fairly straightforward.
 
+### Through our Discord
+
+The most straightforward way to go, as it doesn't even require a GitHub account, would be to join our [Discord Server](https://discordapp.com/invite/PPvDstH) and add your resource to the #resource channel.
+
 ### Opening an Issue manually
 
 Click on the Topic Name template and just fill in accordingly!
@@ -20,7 +24,3 @@ Resource Link(s)
 **(Optional) What category does it belong to? If missing, what directory should we add?**
 Category/Directory
 ```
-
-### Through our Discord Bot (not implemented yet)
-
-The most straightforward way to go, as it doesn't even require a GitHub account, would be to join our [Discord Server](https://discordapp.com/invite/PPvDstH) and use the bot command to generate an issue.
