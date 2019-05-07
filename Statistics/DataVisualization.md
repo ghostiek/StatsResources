@@ -1,3 +1,3 @@
 | Name | Command Name | Overview | Further Reading
 | :--: |:------------:|:--------:|:--------------:
-| DataViz     | DataViz | https://serialmentor.com/dataviz/index.html |
+| DataViz     | dataviz | https://serialmentor.com/dataviz/index.html |
