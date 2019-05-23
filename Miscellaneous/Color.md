@@ -1,3 +1,3 @@
 | Name | Command Name | Overview | Further Reading
 | :--: |:------------:|:--------:|:--------------:
-| RGB     | rgb | http://tools.medialab.sciences-po.fr/iwanthue/ |
+| Color     | color | http://tools.medialab.sciences-po.fr/iwanthue/ |
