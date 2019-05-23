@@ -1,5 +1,6 @@
 | Name | Command Name | Overview | Further Reading
 | :--: |:------------:|:--------:|:--------------:
+| Generalized Linear Mixed Modeling | glmm | https://bbolker.github.io/morelia_2018/ |
 | Logistic Regression | logisticregression | http://jerrydallal.com/lhsp/logistic.htm |
 | Model Selection | modelselection | https://ijlyttle.github.io/model_cv_selection.html |
 | Neural Networks     | nn | http://cs231n.github.io/ | http://www.deeplearningbook.org/ <br> http://hagan.okstate.edu/NNDesign.pdf |
