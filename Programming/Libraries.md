@@ -13,4 +13,5 @@
 | Seaborn | seaborn | https://seaborn.pydata.org/ | https://seaborn.pydata.org/tutorial.html <br> https://jakevdp.github.io/PythonDataScienceHandbook/04.14-visualization-with-seaborn.html
 | Tibble | tibble | https://tibble.tidyverse.org/ | https://r4ds.had.co.nz/tibbles.html
 | Tidyr | tidyr  | https://tidyr.tidyverse.org/ <br> https://www.rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf | https://r4ds.had.co.nz/tidy-data.html
+| Tidyverse | tidyverse | https://www.tidyverse.org <br> https://github.com/gadenbuie/tidyexplain |
 | XGBoost | xgboost | https://xgboost.ai/ | https://www.hackerearth.com/practice/machine-learning/machine-learning-algorithms/beginners-tutorial-on-xgboost-parameter-tuning-r/tutorial/
