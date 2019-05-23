@@ -3,7 +3,7 @@
 | Dplyr | dplyr | https://dplyr.tidyverse.org/ <br> https://www.rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf  | https://r4ds.had.co.nz/transform.html 
 | Ggplot2 | ggplot2 | https://ggplot2.tidyverse.org/ <br> https://www.rstudio.com/wp-content/uploads/2015/03/ggplot2-cheatsheet.pdf | https://github.com/hadley/ggplot2-book
 | Keras | keras | https://keras.io/ | https://elitedatascience.com/keras-tutorial-deep-learning-in-python
-| Lubridate | lubridate | https://rawgit.com/rstudio/cheatsheets/master/lubridate.pdf <br> https://lubridate.tidyverse.org | https://r4ds.had.co.nz/dates-and-times.html |
+| Lubridate | lubridate | https://lubridate.tidyverse.org <br> https://rawgit.com/rstudio/cheatsheets/master/lubridate.pdf | https://r4ds.had.co.nz/dates-and-times.html |
 | Matplotlib | matplotlib | https://matplotlib.org/ | https://matplotlib.org/Matplotlib.pdf <br> http://www.allitebooks.com/matplotlib-plotting-cookbook/
 | Numpy     | numpy | https://www.numpy.org/ | https://www.labri.fr/perso/nrougier/from-python-to-numpy/
 | Purrr | purrr | https://purrr.tidyverse.org/ <br> https://github.com/rstudio/cheatsheets/blob/master/purrr.pdf | https://r4ds.had.co.nz/iteration.html
