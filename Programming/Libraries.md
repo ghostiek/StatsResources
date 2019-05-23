@@ -5,6 +5,7 @@
 | Keras | keras | https://keras.io/ | https://elitedatascience.com/keras-tutorial-deep-learning-in-python
 | Lubridate | lubridate | https://lubridate.tidyverse.org <br> https://rawgit.com/rstudio/cheatsheets/master/lubridate.pdf | https://r4ds.had.co.nz/dates-and-times.html |
 | Matplotlib | matplotlib | https://matplotlib.org/ | https://matplotlib.org/Matplotlib.pdf <br> http://www.allitebooks.com/matplotlib-plotting-cookbook/
+| MCMCglmm | mcmcglmm | https://ourcodingclub.github.io/2018/01/22/mcmcglmm.html
 | Numpy     | numpy | https://www.numpy.org/ | https://www.labri.fr/perso/nrougier/from-python-to-numpy/
 | Purrr | purrr | https://purrr.tidyverse.org/ <br> https://github.com/rstudio/cheatsheets/blob/master/purrr.pdf | https://r4ds.had.co.nz/iteration.html
 | Pandas | pandas | https://pandas.pydata.org/ | https://pandas.pydata.org/pandas-docs/stable/getting_started/tutorials.html
