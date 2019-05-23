@@ -8,6 +8,7 @@
 | Numpy     | numpy | https://www.numpy.org/ | https://www.labri.fr/perso/nrougier/from-python-to-numpy/
 | Purrr | purrr | https://purrr.tidyverse.org/ <br> https://github.com/rstudio/cheatsheets/blob/master/purrr.pdf | https://r4ds.had.co.nz/iteration.html
 | Pandas | pandas | https://pandas.pydata.org/ | https://pandas.pydata.org/pandas-docs/stable/getting_started/tutorials.html
+| Rcpp | rcpp | https://teuder.github.io/rcpp4everyone_en/ |
 | Readr | readr | https://readr.tidyverse.org/ <br> https://rawgit.com/rstudio/cheatsheets/master/data-import.pdf | https://r4ds.had.co.nz/data-import.html
 | Scikit-learn | sklearn | https://scikit-learn.org/stable/index.html | http://www.allitebooks.com/mastering-machine-learning-with-scikit-learn/ <br> http://www.allitebooks.com/scikit-learn-cookbook/
 | Seaborn | seaborn | https://seaborn.pydata.org/ | https://seaborn.pydata.org/tutorial.html <br> https://jakevdp.github.io/PythonDataScienceHandbook/04.14-visualization-with-seaborn.html
